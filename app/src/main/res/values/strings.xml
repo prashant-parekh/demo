@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidPDFDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">AndroidPDF generator using DroidText!</string>
+    <string name="FirstName">Firstname</string>
+    <string name="lastName">Lastname</string>
+    <string name="email">Email</string>
+    <string name="company">Company</string>
+    <string name="companyname">asdcxz</string>
+    <string name="city">City</string>
+    <string name="pincode">Pincode</string>
+    <string name="pincodehint">123456</string>
+    <string name="landmark">Landmark</string>
+    <string name="address">Address</string>
+    <string name="mobileno">Mob No</string>
+    <string name="save">Save</string>
+
+</resources>

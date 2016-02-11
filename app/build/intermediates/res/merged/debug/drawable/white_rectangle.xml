@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    android:tintMode="screen">
+
+    <solid android:color="@color/cardback" />
+
+    <stroke
+        android:width="@dimen/whiterect_strok"
+        android:color="@color/light_gray" />
+
+    <size android:height="@dimen/whiterect_width" />
+
+</shape>
